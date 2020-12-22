@@ -1,0 +1,29 @@
+.Titdiv {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 7vw;
+}
+.mylogoy {
+  width: 8vw;
+  height: 7vw;
+}
+.P {
+  align-self: flex-start;
+  flex-direction: column;
+  margin-left: 40%;
+  margin-top: 2vw;
+}
+.p1 {
+  align-self: flex-start;
+  margin-left: 3vw;
+  font-weight: 600 !important;
+  font-size: 18px;
+  color: #6e6d7a;
+  font-family: Hind, sans-serif;
+  text-decoration: none !important;
+}
+.p1:hover {
+  color: black;
+  cursor: pointer;
+}

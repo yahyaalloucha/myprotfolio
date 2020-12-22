@@ -1,0 +1,30 @@
+.lastproj {
+  display: flex;
+  flex-direction: column;
+  margin-top: 15vw;
+  margin-left: 6.5vw;
+  width: 100%;
+}
+.h1 {
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.pandi {
+  display: flex;
+  flex-direction: row;
+  margin-left: 2vw;
+  margin-top: 3vw;
+  width: 100%;
+}
+.par {
+  display: flex;
+  flex-direction: column;
+  width: 80%;
+}
+.imgofp {
+  margin-left: 17vw;
+}
+.portfolio-image {
+  border-radius: 20px;
+}

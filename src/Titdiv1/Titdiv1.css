@@ -1,0 +1,26 @@
+.Titdiv1 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 10vw;
+}
+
+.P {
+  align-self: flex-start;
+  flex-direction: column;
+  margin-left: 58%;
+  margin-top: 2vw;
+}
+.p1 {
+  align-self: flex-start;
+  margin-left: 3vw;
+  font-weight: 600 !important;
+  font-size: 18px;
+  color: #6e6d7a;
+  font-family: Hind, sans-serif;
+  text-decoration: none;
+}
+.p1:hover {
+  color: black;
+  cursor: pointer;
+}

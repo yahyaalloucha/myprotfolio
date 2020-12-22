@@ -1,0 +1,50 @@
+.comerce {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-top: 10vw;
+  margin-left: 3vw;
+}
+.pofcom {
+  display: flex;
+  flex-direction: column;
+  width: 40%;
+  margin-left: 5vw;
+  margin-top: 5vw;
+}
+.tit {
+  font-size: 20px !important;
+
+  margin-left: 2vw;
+}
+.pc {
+  font-size: 14px;
+  margin-left: 2vw;
+}
+.para {
+  font-size: 16px;
+  line-height: 1.7;
+}
+.par1 {
+  margin-left: 2vw;
+}
+
+.tlink {
+  margin-top: 1vw;
+}
+.t-link {
+  font-size: 18px;
+  font-family: Hind, sans-serif;
+  text-decoration: none;
+  color: #0d0c22;
+  font-weight: 600;
+}
+.imgofcom {
+  width: 40%;
+  margin-top: 4vw !important;
+  margin-left: 13vw;
+}
+.imcomer {
+  width: 500px !important;
+  height: 350px;
+}

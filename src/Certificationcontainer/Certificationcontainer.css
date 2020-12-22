@@ -1,0 +1,72 @@
+.Certificationcontainer {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  margin-left: 9vw !important;
+  margin-top: 6vw;
+  background-color: #f9f9f9;
+  width: 80vw;
+  height: 150px;
+}
+.text-block {
+  align-self: center;
+  margin-left: 10px;
+  font-weight: 600;
+}
+.hubs {
+  width: 15% !important;
+  align-self: center;
+  margin-left: 20px;
+}
+.imhusb {
+  width: 100px;
+  height: 95px;
+}
+.CSS {
+  width: 80px;
+  height: 85px;
+}
+.react {
+  width: 110px;
+  height: 90px;
+}
+.wordpress {
+  width: 110px;
+  height: 100px;
+}
+.Js {
+  width: 95px;
+  height: 95px;
+}
+.google {
+  width: 15% !important;
+  align-self: center;
+  margin-left: 20px;
+}
+.imgo {
+  width: 90px;
+  height: 85px;
+}
+.semrush {
+  width: 15% !important;
+  align-self: center;
+  margin-left: 60px;
+  background-color: #f9f9f9;
+}
+.imgsemru {
+  width: 90px;
+  height: 35px;
+  background-color: #f9f9f9;
+  margin-left: 3vw;
+}
+.analy {
+  width: 15% !important;
+  align-self: center;
+  margin-left: 20px;
+  background-color: #f9f9f9;
+}
+.imganaly {
+  width: 180px;
+  height: 35px;
+  background-color: #f9f9f9;
+}

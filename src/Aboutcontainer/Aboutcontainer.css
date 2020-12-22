@@ -1,0 +1,68 @@
+.aboutcontainer {
+  display: flex;
+  flex-direction: row;
+  margin-top: 10vw;
+  margin-left: 6vw !important;
+  width: 83vw;
+}
+.pdiv {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  margin-top: 4vw;
+  margin-left: 5vw;
+}
+.titlediv {
+  margin-left: -2vw;
+  max-width: 40vw;
+  max-height: 630px;
+}
+
+.tit {
+  font-size: 36px;
+  line-height: 36px;
+  font-weight: 700;
+  font-family: sofia-pro, sans-serif;
+  color: #0d0c22;
+  text-transform: none;
+  margin-top: 10px;
+}
+.para {
+  margin-top: 30px;
+  color: #0d0c22;
+  line-height: 26px;
+  font-size: 16px;
+  font-family: Hind, sans-serif;
+  margin-left: -2vw;
+}
+.proimg {
+  background-position: 0 0;
+  background-size: cover;
+  height: 670px;
+  width: 350px;
+
+  margin-top: 55px;
+  border-radius: 20px;
+  clip-path: polygon(
+    30% 0%,
+    70% 0%,
+    100% 0,
+    99% 90%,
+    70% 100%,
+    30% 100%,
+    0 86%,
+    0 0
+  );
+}
+.proimg1 {
+  margin-left: 20vw;
+}
+
+.loveimg {
+  display: flex;
+  flex-direction: row;
+  margin-left: 25px;
+}
+.paragraph {
+  margin-left: 20px;
+}

@@ -1,0 +1,95 @@
+.Def {
+  display: flex;
+  flex-direction: column;
+  margin-top: 10vw;
+  margin-left: 0vw;
+}
+.definition {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  margin-left: 10vw;
+}
+.pp {
+  margin-top: 0vw !important;
+  align-self: center;
+  text-align: start;
+  font-weight: 700;
+  font-size: 40px;
+  color: #36526d;
+  width: 45vw !important;
+  font-family: sofia-pro, sans-serif;
+}
+.pp2 {
+  margin-top: 0vw !important;
+  align-self: center;
+  text-align: start;
+  font-weight: 700;
+  font-size: 20px;
+  color: #36526d;
+  width: 38vw !important;
+  font-family: sofia-pro, sans-serif;
+}
+.img {
+  margin-left: 2vw !important;
+}
+.dev {
+  height: 23vw !important;
+  width: 33vw !important;
+
+  border-radius: 20px;
+  background-color: #36526d;
+}
+.but {
+  margin-top: 2vw;
+  align-items: center;
+  margin-left: 10vw;
+  display: flex;
+  flex-direction: row;
+}
+
+.but1 {
+  height: 48px;
+  margin-top: 40px;
+  margin-right: 24px;
+  padding: 11px 24px;
+  border-style: solid;
+  border-width: 1px;
+  border-color: rgba(255, 125, 89, 0.2);
+  border-radius: 5px;
+  background-color: #fff;
+  box-shadow: 6px 6px 30px 4px rgba(255, 125, 89, 0.02),
+    3px 3px 15px 2px rgba(255, 125, 89, 0.03),
+    2px 2px 8px 1px rgba(255, 125, 89, 0.02);
+  transition: box-shadow 0.2s ease-in-out, transform 0.2s ease-in-out,
+    -webkit-transform 0.2s ease-in-out;
+  color: #ff7d59;
+  text-transform: capitalize;
+  cursor: pointer;
+  margin-left: 4vw;
+  font-size: 16px;
+  line-height: 26px;
+  text-decoration: none;
+  font-weight: 600;
+  font-family: sofia-pro, sans-serif;
+}
+
+.but2 {
+  height: 48px;
+  margin-top: 40px;
+  margin-right: 24px;
+  padding: 11px 24px;
+  border-style: none;
+  border-width: 0;
+  border-color: rgba(255, 125, 89, 0.2);
+  border-radius: 5px;
+  background-color: transparent;
+  background-image: linear-gradient(90deg, #ff8d4d, #f4494e);
+  box-shadow: 1px 1px 8px 1px rgba(0, 0, 0, 0.02);
+  font-size: 16px;
+  line-height: 26px;
+  text-decoration: none;
+  font-weight: 600;
+  cursor: pointer;
+  font-family: Hind, sans-serif;
+}
