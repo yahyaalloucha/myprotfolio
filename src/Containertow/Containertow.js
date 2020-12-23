@@ -43,7 +43,7 @@ class Containertow extends React.Component{
                 
 
                 <div className="inpu" id="contactid">
-                    <form className="frm">
+                    <form action="https://send.pageclip.co/fq3XsvzFs64kc4out7Fv8SlF9GKPZy5i" className="pageclip-form frm" method="post" >
 
                          <h2 class="form-heading-tablet">Or use the form below</h2>
 
