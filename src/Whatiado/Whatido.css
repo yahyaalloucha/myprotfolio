@@ -1,11 +1,11 @@
 .whatido {
-  margin-left: 10vw !important;
-  margin-top: 13vw !important;
-  width: 100%;
+  display: flex;
+  align-items: center;
+  margin-top: 10vw !important;
 }
 .what {
   font-family: sofia-pro, sans-serif !important;
-
+  margin-left: 10vw;
   font-size: 36px;
   line-height: 36px;
   font-weight: 700;

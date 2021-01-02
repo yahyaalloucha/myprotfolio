@@ -50,6 +50,17 @@
   font-family: sofia-pro, sans-serif;
   align-self: flex-start;
 }
+.p11 {
+  align-self: flex-start;
+  margin-left: 0vw;
+  font-weight: 600 !important;
+  font-size: 18px;
+  color: #6e6d7a;
+  font-family: Hind, sans-serif;
+  text-decoration: none !important;
+  margin-top: 2vw;
+  height: 25px;
+}
 .price-part {
   display: flex;
   flex-direction: row;

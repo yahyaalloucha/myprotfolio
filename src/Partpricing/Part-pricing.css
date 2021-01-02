@@ -1,7 +1,9 @@
 .about-price {
   display: flex;
   flex-direction: row;
-  width: 100vw;
+  width: 100%;
+
+  align-items: center;
 }
 
 .for-page {

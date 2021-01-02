@@ -21,6 +21,6 @@
   text-decoration: none;
 }
 .p1:hover {
-  color: black;
+  color: rgb(230, 23, 23);
   cursor: pointer;
 }

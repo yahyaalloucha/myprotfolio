@@ -1,16 +1,18 @@
 .divmywork {
   display: flex;
   flex-direction: column;
-  align-items: center;
+  align-items: flex-start;
+  width: 100vw;
 }
 .mywork {
   display: flex;
   align-items: flex-start;
   flex-direction: row;
   margin-left: 0vw;
-  width: 80vw;
+  width: 80%;
   margin-top: 3vw;
   height: 15vw;
+  margin-left: 1%;
 }
 .webdev {
   margin-left: 10vw;

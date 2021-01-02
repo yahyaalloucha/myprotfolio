@@ -5,7 +5,7 @@
   align-items: center;
   background-color: #f9f9f9;
   background-attachment: scroll !important;
-  width: 100vw;
+  width: 100vw !important;
   height: 10vw;
 }
 

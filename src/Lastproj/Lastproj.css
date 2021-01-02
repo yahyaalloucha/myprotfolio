@@ -2,25 +2,29 @@
   display: flex;
   flex-direction: column;
   margin-top: 15vw;
-  margin-left: 6.5vw;
-  width: 100%;
+  align-items: center;
 }
 .h1 {
   font-size: 36px;
   line-height: 36px;
   font-weight: 700;
+  align-self: flex-start !important;
+
+  margin-left: 10%;
 }
 .pandi {
   display: flex;
+  align-self: center;
   flex-direction: row;
   margin-left: 2vw;
   margin-top: 3vw;
-  width: 100%;
 }
 .par {
   display: flex;
   flex-direction: column;
-  width: 80%;
+
+  display: flex;
+  justify-content: space-between;
 }
 .imgofp {
   margin-left: 17vw;
